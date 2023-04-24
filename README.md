@@ -36,3 +36,5 @@ Multiple analysis tasks are carried out on the dataset, ranging from descriptive
 
 5)Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
 
+# KPI_1  Weekday Vs Weekend Payment Statistics![image](https://user-images.githubusercontent.com/103564871/233911391-dbf402af-2089-457d-bf89-f17c958a45a6.png)
+
