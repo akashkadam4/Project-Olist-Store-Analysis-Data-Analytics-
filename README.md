@@ -36,5 +36,32 @@ Multiple analysis tasks are carried out on the dataset, ranging from descriptive
 
 5)Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
 
-# KPI_1  Weekday Vs Weekend Payment Statistics![image](https://user-images.githubusercontent.com/103564871/233911391-dbf402af-2089-457d-bf89-f17c958a45a6.png)
+# KPI_1  Weekday Vs Weekend Payment Statistics!
+
+Weekday  sales – 79 %
+Weekend sales – 22 %
+# Analysis:
+Most of the sales are done on weekdays. Major sales happened on Tuesdays and on the weekend it’s on Sundays. 
+The highest number of payments are made through Credit card mode. 
+The number of orders received on weekdays is 76k and on weekends 23k.
+# Suggestion:
+To increase the weekend sales we can release any special offers on the weekends or Tuesdays. Which helps to generate more revenue.
+
+![image](https://user-images.githubusercontent.com/103564871/233911608-2bf4fbe7-e074-4624-b8d7-622f55226484.png)
+
+# KPI_2  Number of Orders with review score 5 and payment type as credit card
+
+With a review score of 5 and payment type as a credit card, We received 44333 orders.
+
+# Overview:
+- More orders have been placed via credit card payment than boleto, voucher, and debit card.
+-  More than 70% of sales were paid by Credit Card which is the main payment method in the market. However, payment using Boleto has slightly increased by 7% and a significant increase in using a debit card has been founded.
+#Suggestion:
+If we want to increase sales, we can have a certain amount of discounts or no-cost EMI’s on card payments.
+![image](https://user-images.githubusercontent.com/103564871/233911765-f25680bc-2dd4-44c9-a0cb-beb6fe23892f.png)
+
+
+
+
+
 
