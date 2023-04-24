@@ -85,9 +85,20 @@ To increase sales on other cities we can work on faster delivery and easy paymen
 
 ![image](https://user-images.githubusercontent.com/103564871/233912137-bdc4a3ff-77af-4458-bb76-5f6410390549.png)
 
+# KPI_5  Relationship between shipping days Vs review scores.
 
+11 avg shipping days taken for review score 5 & 20 avg shipping days taken for review score 1.
+# Overview:
+We get positive/high ratings when delivery time is less and negative feedback from the customers when it takes long to deliver the product.
+Lesser the delivery days – the higher the positive reviews.
+After analysing the review scores(customer satisfaction rating), the average score is 4.07/5, which shows positive satisfaction with Olist’s services.
+# Suggestion:
+Minimizing the shipping days would lead to more positive reviews. Consecutively customer satisfaction will be met which leads to more business.
+![image](https://user-images.githubusercontent.com/103564871/233912371-40247d5f-6a75-43b1-9051-98ea5cc9c567.png)
 
+# CONCLUSION
 
+The analysis also focuses on the product categories with respect to the price and the review score of the customer. So, if the company focuses on the product’s pricing strategy and makes product improvements on the basis of consumer opinion, the company can make better revenue and can increase the range of products under each category. 
 
-
+The organization needs to purposely address the purchaser's survey and continue to adjust and change the item range. Future work in this space might incorporate recognizing how connections revealed in this investigation might be applied to further develop income inside comparative internet business organizations in Brazil
 
