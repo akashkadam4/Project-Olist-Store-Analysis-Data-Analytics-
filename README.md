@@ -56,9 +56,35 @@ With a review score of 5 and payment type as a credit card, We received 44333 or
 # Overview:
 - More orders have been placed via credit card payment than boleto, voucher, and debit card.
 -  More than 70% of sales were paid by Credit Card which is the main payment method in the market. However, payment using Boleto has slightly increased by 7% and a significant increase in using a debit card has been founded.
-#Suggestion:
+# Suggestion:
 If we want to increase sales, we can have a certain amount of discounts or no-cost EMI’s on card payments.
 ![image](https://user-images.githubusercontent.com/103564871/233911765-f25680bc-2dd4-44c9-a0cb-beb6fe23892f.png)
+
+# KPI_3 Average number of days taken to deliver order for pet_shop
+
+11 days is the avg days taken to deliver the order for pet shop.
+
+# Overview:
+- 21 days is the maximum avg days taken to deliver the order and for the product : (Office furniture).
+- 5 days is the minimum avg days taken to deliver the order and for the product: artes_e_artesanato (arts and craftmanship).
+- Year wise sales are increasing which means we doing good in the market.
+
+# Suggestion:
+We can work on faster delivery of the product moveis_escritorio by taking additional delivery measures.
+
+![image](https://user-images.githubusercontent.com/103564871/233911969-1ed873ce-423d-41e5-a985-9a44f3f6feef.png)
+
+
+# KPI_4  Average price and payment values from customers of sao paulo city
+
+Sao Paulo City – Avg price is 108 and avg payment is 153
+# Overview :
+- The total number of customers is nearly 100K. We found out that São Paulo (SP) contains the most customers and is 3 times more than the second one. It is expected São Paulo has, particularly the most order payment value. Either Rio de Janerio (RJ) or Minas Gerais (MG) takes 10% of total customers. This indicates that the top 5 states contribute 80% of total customers.
+# Suggestion:
+To increase sales on other cities we can work on faster delivery and easy payment modes and product wise offers.
+
+![image](https://user-images.githubusercontent.com/103564871/233912137-bdc4a3ff-77af-4458-bb76-5f6410390549.png)
+
 
 
 
